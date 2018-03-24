@@ -1,6 +1,6 @@
 # Examples of Aspect Oriented Programming in JavaScript
-```These examples are in no way definitive or complete. They simply demonstrate the concept with while using a naive approach```
-```Somebody profficient with prototyping could probably give much better examples... I can't do that at the moment.```
+
+> These examples are in no way definitive or complete. They simply demonstrate the concept with while using a naive approach. Somebody profficient with prototyping could probably give much better examples... I can't do that at the moment.
 
 
 Examples:
