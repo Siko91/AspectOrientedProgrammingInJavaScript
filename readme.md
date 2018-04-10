@@ -12,3 +12,7 @@ Examples:
  - example2.js : 
     - wrapping an object to handle logging when any of it's methods are called;
     - (super easy to use but **not as easy** to implement)
+
+ - example3.js : 
+    - wrapping an object to handle timing of when it's methods are called. (2 methods shouldnt be called too close in time to each other)
+    - (super easy to use but **not as easy** to implement)
